@@ -9,14 +9,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Informações Gerais
 
 - Nome: Daniel Alves Oliveira
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Matricula: 
+- Proposta de projeto escolhida: Site de Vistoria Veicular
+- Breve descrição sobre seu projeto: Um site que faça o agendamento online de vistorias particulares 
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="409" height="501" alt="image" src="https://github.com/user-attachments/assets/0af19781-b593-4218-b4d3-7e2269381198" />
+
 
 
 ## Print da home-page criada
