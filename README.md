@@ -22,4 +22,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Uploading {354C9FE7-EBC3-4E2F-98E1-F0331B65E890}.png…]()
+
