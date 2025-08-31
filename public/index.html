@@ -1,12 +1,86 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+<html lang="pt-br">
+<head> 
+  <title>Vistoria Veicular Online</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background: #003366;
+      color: #fff;
+      padding: 15px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  </style>
 </head>
 <body>
-    
+
+  <header>
+    <h2> Vistoria Online</h2>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#agendamento">Agendar</a>
+      <a href="#envio">Enviar Fotos</a>
+      <a href="#status">Consultar Status</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <h1>Faça sua vistoria veicular online</h1>
+    <a href="#agendamento" class="btn">Agendar Agora</a>
+  </section>
+
+  <section id="agendamento">
+    <h2>Agendar Vistoria</h2>
+    <form>
+      <input type="text" placeholder="Nome Completo" required>
+      <input type="text" placeholder="CPF" required>
+      <input type="email" placeholder="E-mail" required>
+      <input type="tel" placeholder="Telefone" required>
+      <input type="text" placeholder="Placa do Veículo" required>
+      <input type="text" placeholder="Modelo / Ano" required>
+      <input type="date" required>
+      <button type="submit" class="btn">Confirmar Agendamento</button>
+    </form>
+  </section>
+
+  <section id="envio">
+    <h2>Enviar Fotos da Vistoria</h2>
+    <form>
+      <p>Envie as fotos do veículo (frente, traseira, laterais, chassi, etc.)</p>
+      <input type="file" multiple required>
+      <textarea placeholder="Observações"></textarea>
+      <button type="submit" class="btn">Enviar Vistoria</button>
+    </form>
+  </section>
+
+  <section id="status">
+    <h2>Consultar Status da Vistoria</h2>
+    <form>
+      <input type="text" placeholder="Digite a Placa ou Protocolo" required>
+      <button type="submit" class="btn">Consultar</button>
+    </form>
+  </section>
+
+  <section id="contato">
+    <h2>Fale Conosco</h2>
+    <form>
+      <input type="text" placeholder="Seu Nome" required>
+      <input type="email" placeholder="Seu Email" required>
+      <textarea placeholder="Mensagem"></textarea>
+      <button type="submit" class="btn">Enviar</button>
+    </form>
+  </section>
+
+  
+
+
 </body>
 </html>
