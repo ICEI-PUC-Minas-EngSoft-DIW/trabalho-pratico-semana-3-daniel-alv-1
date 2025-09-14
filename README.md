@@ -9,7 +9,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Informações Gerais
 
 - Nome: Daniel Alves Oliveira
-- Matricula: 
+- Matricula: 902466
 - Proposta de projeto escolhida: Site de Vistoria Veicular
 - Breve descrição sobre seu projeto: Um site que faça o agendamento online de vistorias particulares 
 
